@@ -13,6 +13,8 @@
 <h2>📋 Recently Worked on</h2>
 
 
+### These repos
+
 <a href="https://github.com/darknight1050/SongDownloader">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true&theme=nord" alt="SongDownloader">
 </a>
@@ -32,6 +34,12 @@
 
 [![ClockMod](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=ClockMod&theme=nord)](https://github.com/EnderdracheLP/ClockMod)
 -->
+
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
 <p align="center">
