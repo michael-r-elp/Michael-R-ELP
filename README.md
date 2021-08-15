@@ -12,12 +12,14 @@
 <br><br><br><br><br><br><br>
 <h2>📋 Recently Worked on</h2>
 
+
 <a href="https://github.com/darknight1050/SongDownloader">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true&theme=nord" alt="SongDownloader">
 </a>
 
-<!--[![SongDownloader](https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true)](https://github.com/darknight1050/SongDownloader)
--->
+[![QuestSounds](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=BeatSaberServerBrowserQuest&theme=nord)](https://github.com/EnderdracheLP/BeatSaberServerBrowserQuest)
+<!--
+[![SongDownloader](https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true&theme=nord)](https://github.com/darknight1050/SongDownloader)
 
 [![QuestSounds](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=QuestSounds&theme=nord)](https://github.com/EnderdracheLP/QuestSounds)
 
@@ -26,11 +28,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=Streamer-Tools&theme=nord" alt="Streamer-Tools">
 </a>
 
-<!--[![Streamer-Tools](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=Streamer-Tools)](https://github.com/EnderdracheLP/streamer-tools)
--->
+[![Streamer-Tools](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=Streamer-Tools)](https://github.com/EnderdracheLP/streamer-tools)
 
 [![ClockMod](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=ClockMod&theme=nord)](https://github.com/EnderdracheLP/ClockMod)
-
+-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
 <p align="center">
