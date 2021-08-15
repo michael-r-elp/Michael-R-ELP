@@ -39,6 +39,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#18](https://github.com/darknight1050/questui/pull/18) in [darknight1050/questui](https://github.com/darknight1050/questui)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
