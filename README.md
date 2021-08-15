@@ -1,4 +1,18 @@
 <h1> Hi I'm <a href="https://enderdrachelp.tk/" target=”_blank” rel=”noreferrer”>EnderdracheLP</a> 👋</h2>
+
+<a href="https://twitch.tv/EnderdracheLP" target=”_blank” rel=”noreferrer”>
+  <img align="left" src="https://img.shields.io/twitch/status/EnderdracheLP?style=flat-square" alt="Twitch">
+</a>
+
+<a href="https://www.youtube.com/channel/UC-408exk-OexJCJC2JINS4Q" target=”_blank” rel=”noreferrer”>
+  <img align="left" src="https://img.shields.io/youtube/channel/subscribers/UC-408exk-OexJCJC2JINS4Q?label=YouTube%20Main&style=flat-square" alt="YouTube Main">
+</a>
+
+<a href="https://www.youtube.com/EnderdracheLP" target=”_blank” rel=”noreferrer”>
+  <img align="left" src="https://img.shields.io/youtube/channel/subscribers/UCd2H6dfKYhfNizMKuEJ3Sdw?label=YouTube%20Second&style=flat-square" alt="YouTube Second">
+</a>
+<br>
+
 <h2>⚡️ About me</h2>
 <a href="https://github.com/EnderdracheLP">
   <img align="right" width=400 height=200 src="https://github-readme-stats.vercel.app/api/?username=EnderdracheLP&count_private=true&theme=nord&show_icons=true&include_all_commits=true" alt="My Github Stats"></a>
