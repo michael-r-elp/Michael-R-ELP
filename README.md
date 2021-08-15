@@ -9,27 +9,27 @@
 </ul>
   <br><br><br><br><br><a href="https://github.com/EnderdracheLP">
   <img align="right" width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnderdracheLP&langs_count=5&layout=compact&theme=nord" alt="My Coding Language Stats"></a>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <h2>📋 Recently Worked on</h2>
 
 <a href="https://github.com/darknight1050/SongDownloader">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true" alt="SongDownloader">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true&theme=nord" alt="SongDownloader">
 </a>
 
 <!--[![SongDownloader](https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true)](https://github.com/darknight1050/SongDownloader)
 -->
 
-[![QuestSounds](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=QuestSounds)](https://github.com/EnderdracheLP/QuestSounds)
+[![QuestSounds](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=QuestSounds&theme=nord)](https://github.com/EnderdracheLP/QuestSounds)
 
 
 <a href="https://github.com/EnderdracheLP/streamer-tools">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=Streamer-Tools" alt="Streamer-Tools">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=Streamer-Tools&theme=nord" alt="Streamer-Tools">
 </a>
 
 <!--[![Streamer-Tools](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=Streamer-Tools)](https://github.com/EnderdracheLP/streamer-tools)
 -->
 
-[![ClockMod](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=ClockMod)](https://github.com/EnderdracheLP/ClockMod)
+[![ClockMod](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=ClockMod&theme=nord)](https://github.com/EnderdracheLP/ClockMod)
 
 
 <h2>🤣 Random Joke and Meme for you</h2>
