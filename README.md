@@ -13,7 +13,8 @@
 <h2>📋 Recently Worked on</h2>
 
 <a href="https://github.com/darknight1050/SongDownloader">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true" alt="SongDownloader"></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true" alt="SongDownloader">
+</a>
 
 <!--[![SongDownloader](https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true)](https://github.com/darknight1050/SongDownloader)
 -->
@@ -22,7 +23,8 @@
 
 
 <a href="https://github.com/EnderdracheLP/streamer-tools">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=Streamer-Tools" alt="Streamer-Tools"></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=Streamer-Tools" alt="Streamer-Tools">
+</a>
 
 <!--[![Streamer-Tools](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=Streamer-Tools)](https://github.com/EnderdracheLP/streamer-tools)
 -->
