@@ -7,7 +7,7 @@ I also work on other repos, like BeatTogehter.Quest, MultiQuestensions and such.
 
 ### My Statistics
 ----
-<a href="">
+<a href="https://github.com/EnderdracheLP">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=EnderdracheLP&count_private=true&theme=nord&show_icons=true&include_all_commits=true" alt="My Github Stats">
 <p align="center">
