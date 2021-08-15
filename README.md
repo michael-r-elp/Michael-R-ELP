@@ -1,4 +1,4 @@
-<h2> Hi I'm <a href="https://enderdrachelp.tk/" target=”_blank” rel=”noreferrer”>EnderdracheLP</a> 👋</h2>
+<h1> Hi I'm <a href="https://enderdrachelp.tk/" target=”_blank” rel=”noreferrer”>EnderdracheLP</a> 👋</h2>
 <h2>⚡️ About me</h2>
 <a href="https://github.com/EnderdracheLP">
   <img align="right" width=400 height=200 src="https://github-readme-stats.vercel.app/api/?username=EnderdracheLP&count_private=true&theme=nord&show_icons=true&include_all_commits=true" alt="My Github Stats"></a>
