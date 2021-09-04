@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/darknight1050/config-utils/pull/3) in [darknight1050/config-utils](https://github.com/darknight1050/config-utils)
+1. ❌ Closed PR [#18](https://github.com/darknight1050/questui/pull/18) in [darknight1050/questui](https://github.com/darknight1050/questui)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
