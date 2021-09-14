@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/pythonology/BeatTogether/pull/22) in [pythonology/BeatTogether](https://github.com/pythonology/BeatTogether)
+1. 💪 Opened PR [#7](https://github.com/pythonology/BeatTogether.DedicatedServer/pull/7) in [pythonology/BeatTogether.DedicatedServer](https://github.com/pythonology/BeatTogether.DedicatedServer)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
