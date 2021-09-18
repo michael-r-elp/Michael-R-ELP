@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/pythonology/BeatTogether.DedicatedServer/pull/7) in [pythonology/BeatTogether.DedicatedServer](https://github.com/pythonology/BeatTogether.DedicatedServer)
+1. ❗️ Opened issue [#22](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/22) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
