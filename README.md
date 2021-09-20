@@ -29,8 +29,8 @@
 
 ### These repos
 
-<a href="https://github.com/darknight1050/SongDownloader">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true&theme=nord" alt="SongDownloader">
+<a href="https://github.com/EnderdracheLP/MultiQuestensions">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=MultiQuestensions&theme=nord" alt="MultiQuestensions">
 </a>
 
 [![QuestSounds](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=BeatSaberServerBrowserQuest&theme=nord)](/../../../BeatSaberServerBrowserQuest)
