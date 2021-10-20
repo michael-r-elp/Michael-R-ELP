@@ -29,8 +29,8 @@
 
 ### These repos
 
-<a href="https://github.com/EnderdracheLP/MultiQuestensions">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=MultiQuestensions&theme=nord" alt="MultiQuestensions">
+<a href="https://github.com/Goobwabber/MultiQuestensions">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Goobwabber&repo=MultiQuestensions&theme=nord&show_owner=true" alt="MultiQuestensions">
 </a>
 
 [![QuestSounds](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=BeatSaberServerBrowserQuest&theme=nord)](/../../../BeatSaberServerBrowserQuest)
