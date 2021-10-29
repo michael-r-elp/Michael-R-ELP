@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/BSMGPink/PinkCore/pull/9) in [BSMGPink/PinkCore](https://github.com/BSMGPink/PinkCore)
+1. ❗️ Closed issue [#39](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/39) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
