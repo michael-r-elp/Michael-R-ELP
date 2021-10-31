@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152](https://github.com/Goobwabber/MultiplayerExtensions/pull/152) in [Goobwabber/MultiplayerExtensions](https://github.com/Goobwabber/MultiplayerExtensions)
+1. 💪 Opened PR [#153](https://github.com/Goobwabber/MultiplayerExtensions/pull/153) in [Goobwabber/MultiplayerExtensions](https://github.com/Goobwabber/MultiplayerExtensions)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
