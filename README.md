@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/43) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 🎉 Merged PR [#9](https://github.com/Goobwabber/MultiQuestensions/pull/9) in [Goobwabber/MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
