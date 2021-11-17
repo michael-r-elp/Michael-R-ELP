@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#155](https://github.com/Goobwabber/MultiplayerExtensions/pull/155) in [Goobwabber/MultiplayerExtensions](https://github.com/Goobwabber/MultiplayerExtensions)
+1. 🗣 Commented on [#1](https://github.com/EnderdracheLP/BeatSaberServerBrowserQuest/issues/1) in [EnderdracheLP/BeatSaberServerBrowserQuest](https://github.com/EnderdracheLP/BeatSaberServerBrowserQuest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
