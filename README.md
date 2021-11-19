@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Goobwabber/MultiQuestensions/issues/10) in [Goobwabber/MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions)
+1. ❗️ Closed issue [#13](https://github.com/Goobwabber/MultiQuestensions/issues/13) in [Goobwabber/MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
