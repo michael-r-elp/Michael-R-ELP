@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/darknight1050/SongDownloader/pull/6) in [darknight1050/SongDownloader](https://github.com/darknight1050/SongDownloader)
+1. 💪 Opened PR [#36](https://github.com/darknight1050/questui/pull/36) in [darknight1050/questui](https://github.com/darknight1050/questui)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
