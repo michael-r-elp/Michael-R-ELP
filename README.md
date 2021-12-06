@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/Goobwabber/MultiQuestensions/issues/12) in [Goobwabber/MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions)
+1. 💪 Opened PR [#237](https://github.com/novaspirit/pi-hosted/pull/237) in [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
