@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#237](https://github.com/novaspirit/pi-hosted/pull/237) in [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)
+1. ❗️ Closed issue [#50](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/50) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
