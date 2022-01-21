@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/Goobwabber/MultiQuestensions/issues/16) in [Goobwabber/MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions)
+1. ❌ Closed PR [#6](https://github.com/darknight1050/SongDownloader/pull/6) in [darknight1050/SongDownloader](https://github.com/darknight1050/SongDownloader)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
