@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/darknight1050/SongDownloader/pull/6) in [darknight1050/SongDownloader](https://github.com/darknight1050/SongDownloader)
+1. ❗️ Closed issue [#54](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/54) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
