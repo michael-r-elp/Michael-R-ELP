@@ -1,4 +1,4 @@
-<h1> Hi I'm <a href="https://enderdrachelp.tk/" target=”_blank” rel=”noreferrer”>EnderdracheLP</a> 👋</h2>
+<h1> Hi I'm Michael R. (EnderdracheLP) 👋</h2>
 
 <a href="https://twitch.tv/EnderdracheLP" target=”_blank” rel=”noreferrer”>
   <img align="left" src="https://img.shields.io/twitch/status/EnderdracheLP?style=flat-square" alt="Twitch">
