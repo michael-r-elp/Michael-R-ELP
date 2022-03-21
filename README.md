@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/beastsaber/bsaber/pull/6) in [beastsaber/bsaber](https://github.com/beastsaber/bsaber)
+1. 💪 Opened PR [#9](https://github.com/beastsaber/bsaber/pull/9) in [beastsaber/bsaber](https://github.com/beastsaber/bsaber)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
