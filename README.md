@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/71) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. ❗️ Closed issue [#3](https://github.com/EnderdracheLP/streamer-tools/issues/3) in [EnderdracheLP/streamer-tools](https://github.com/EnderdracheLP/streamer-tools)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
