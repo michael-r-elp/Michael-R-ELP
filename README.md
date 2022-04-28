@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/3) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
+1. 🗣 Commented on [#18](https://github.com/Goobwabber/MultiQuestensions/issues/18) in [Goobwabber/MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
