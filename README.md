@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Goobwabber/MultiQuestensions/issues/18) in [Goobwabber/MultiQuestensions](https://github.com/Goobwabber/MultiQuestensions)
+1. 🗣 Commented on [#4](https://github.com/EnderdracheLP/streamer-tools/issues/4) in [EnderdracheLP/streamer-tools](https://github.com/EnderdracheLP/streamer-tools)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
