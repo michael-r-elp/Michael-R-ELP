@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/Goobwabber/MultiplayerCore/pull/14) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
+1. 💪 Opened PR [#6](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/6) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
