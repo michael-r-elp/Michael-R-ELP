@@ -18,7 +18,7 @@
   <img align="right" width=400 height=200 src="https://github-readme-stats.vercel.app/api/?username=Michael-R-ELP&count_private=true&theme=nord&show_icons=true&include_all_commits=true" alt="My Github Stats"></a>
 <ul>
 <li>🔭 I’m currently working on a few Beat Saber Quest Mods.</li>
-<li>🧐 Learning about <strong>C++ and Beat Saber Modding on the Oculus Quest</strong>.</li>
+<li>🧐 Learning about <strong>C++, Beat Saber Modding on the Oculus Quest and Web Development</strong>.</li>
 <li>👨‍💻 My projects are available on <a href="https://github.com/EnderdracheLP?tab=repositories">Github</a>.</li>
 </ul>
   <br><br><br><br><br><a href="#%EF%B8%8F-about-me">
