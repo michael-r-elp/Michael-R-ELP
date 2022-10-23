@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/EnderdracheLP/streamer-tools/issues/5) in [EnderdracheLP/streamer-tools](https://github.com/EnderdracheLP/streamer-tools)
+1. ❗️ Closed issue [#6](https://github.com/EnderdracheLP/streamer-tools/issues/6) in [EnderdracheLP/streamer-tools](https://github.com/EnderdracheLP/streamer-tools)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
