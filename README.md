@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#330](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/330) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 🗣 Commented on [#100](https://github.com/tribe29/grafana-checkmk-datasource/issues/100) in [tribe29/grafana-checkmk-datasource](https://github.com/tribe29/grafana-checkmk-datasource)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
