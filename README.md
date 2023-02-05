@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#44925](https://github.com/moby/moby/issues/44925) in [moby/moby](https://github.com/moby/moby)
+1. 🗣 Commented on [#44925](https://github.com/moby/moby/issues/44925) in [moby/moby](https://github.com/moby/moby)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
