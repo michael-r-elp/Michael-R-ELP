@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/BeatTogether/BeatTogether.DedicatedServer/pull/127) in [BeatTogether/BeatTogether.DedicatedServer](https://github.com/BeatTogether/BeatTogether.DedicatedServer)
+1. ❗️ Closed issue [#504](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/504) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
