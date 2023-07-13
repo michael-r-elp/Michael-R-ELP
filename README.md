@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/Goobwabber/MultiplayerCore/issues/2) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
+1. 🔒 Closed issue [#539](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/539) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
