@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/FrameworkComputer/qmk_firmware/issues/30#issuecomment-2016423115) in [FrameworkComputer/qmk_firmware](https://github.com/FrameworkComputer/qmk_firmware)
+1. 🔒 Closed issue [#570](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/570) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
