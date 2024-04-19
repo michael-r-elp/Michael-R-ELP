@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#570](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/570) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 🗣 Commented on [#43658](https://github.com/nextcloud/server/issues/43658#issuecomment-2066519651) in [nextcloud/server](https://github.com/nextcloud/server)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
