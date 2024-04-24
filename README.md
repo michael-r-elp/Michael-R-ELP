@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43658](https://github.com/nextcloud/server/issues/43658#issuecomment-2069326426) in [nextcloud/server](https://github.com/nextcloud/server)
+1. 🗣 Commented on [#30](https://github.com/FrameworkComputer/qmk_firmware/issues/30#issuecomment-2074723984) in [FrameworkComputer/qmk_firmware](https://github.com/FrameworkComputer/qmk_firmware)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
