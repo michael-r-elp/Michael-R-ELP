@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/FrameworkComputer/qmk_firmware/issues/30#issuecomment-2074723984) in [FrameworkComputer/qmk_firmware](https://github.com/FrameworkComputer/qmk_firmware)
+1. 💪 Opened PR [#1](https://github.com/RedBrumbler/MultiplayerCore/pull/1) in [RedBrumbler/MultiplayerCore](https://github.com/RedBrumbler/MultiplayerCore)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
