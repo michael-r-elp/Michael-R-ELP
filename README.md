@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/RedBrumbler/MultiplayerCore/pull/1) in [RedBrumbler/MultiplayerCore](https://github.com/RedBrumbler/MultiplayerCore)
+1. 🗣 Commented on [#3199](https://github.com/bitwarden/mobile/issues/3199#issuecomment-2091405155) in [bitwarden/mobile](https://github.com/bitwarden/mobile)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
