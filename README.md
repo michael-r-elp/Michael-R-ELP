@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/EnderdracheLP/ClockMod/pull/11) in [EnderdracheLP/ClockMod](https://github.com/EnderdracheLP/ClockMod)
+1. ❗ Opened issue [#573](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/573) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
