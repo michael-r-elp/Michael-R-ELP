@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#573](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/573#issuecomment-2131380400) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 🎉 Merged PR [#1](https://github.com/EnderdracheLP/MultiplayerCore/pull/1) in [EnderdracheLP/MultiplayerCore](https://github.com/EnderdracheLP/MultiplayerCore)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
