@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/EnderdracheLP/MultiplayerCore/pull/1) in [EnderdracheLP/MultiplayerCore](https://github.com/EnderdracheLP/MultiplayerCore)
+1. 🗣 Commented on [#1](https://github.com/RedBrumbler/MultiplayerCore/pull/1#issuecomment-2182852068) in [RedBrumbler/MultiplayerCore](https://github.com/RedBrumbler/MultiplayerCore)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
