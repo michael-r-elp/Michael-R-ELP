@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/RedBrumbler/MultiplayerCore/pull/1#issuecomment-2182852068) in [RedBrumbler/MultiplayerCore](https://github.com/RedBrumbler/MultiplayerCore)
+1. 💪 Opened PR [#50](https://github.com/Goobwabber/MultiplayerCore/pull/50) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
