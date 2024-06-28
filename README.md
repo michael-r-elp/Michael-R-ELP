@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/Goobwabber/MultiplayerCore/pull/51) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
+1. 🗣 Commented on [#43](https://github.com/BeatTogether/BeatTogether/issues/43#issuecomment-2195652585) in [BeatTogether/BeatTogether](https://github.com/BeatTogether/BeatTogether)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
