@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#578](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/578) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 💪 Opened PR [#11](https://github.com/TheCzar1994/bsaber/pull/11) in [TheCzar1994/bsaber](https://github.com/TheCzar1994/bsaber)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
