@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/TheCzar1994/bsaber/pull/11) in [TheCzar1994/bsaber](https://github.com/TheCzar1994/bsaber)
+1. 💪 Opened PR [#3](https://github.com/EnderdracheLP/QuestSounds/pull/3) in [EnderdracheLP/QuestSounds](https://github.com/EnderdracheLP/QuestSounds)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
