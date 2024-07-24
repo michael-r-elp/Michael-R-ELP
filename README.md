@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/EnderdracheLP/QuestSounds/pull/3) in [EnderdracheLP/QuestSounds](https://github.com/EnderdracheLP/QuestSounds)
+1. 🗣 Commented on [#579](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/579#issuecomment-2245961773) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
