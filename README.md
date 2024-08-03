@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/EnderdracheLP/QuestSounds/issues/4#issuecomment-2254455434) in [EnderdracheLP/QuestSounds](https://github.com/EnderdracheLP/QuestSounds)
+1. 💪 Opened PR [#29](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/29) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
