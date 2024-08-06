@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/EnderdracheLP/MultiplayerCore.Quest/issues/30#issuecomment-2269657870) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
+1. 💪 Opened PR [#15](https://github.com/roydejong/BeatSaberMultiplayerChat/pull/15) in [roydejong/BeatSaberMultiplayerChat](https://github.com/roydejong/BeatSaberMultiplayerChat)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
