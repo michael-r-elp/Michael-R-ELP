@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/roydejong/BeatSaberMultiplayerChat/pull/15) in [roydejong/BeatSaberMultiplayerChat](https://github.com/roydejong/BeatSaberMultiplayerChat)
+1. 🗣 Commented on [#580](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/580#issuecomment-2275161468) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
