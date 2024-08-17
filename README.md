@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/31) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
+1. 🗣 Commented on [#29](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/29#issuecomment-2294323312) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
