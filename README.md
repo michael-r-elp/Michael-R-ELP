@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/BeatTogether/BeatTogether.Quest/pull/59) in [BeatTogether/BeatTogether.Quest](https://github.com/BeatTogether/BeatTogether.Quest)
+1. 🚀 Published release [MultiplayerCore for Beat Saber 1.37](https://github.com/Goobwabber/MultiplayerCore/releases/tag/v1.5.0) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
