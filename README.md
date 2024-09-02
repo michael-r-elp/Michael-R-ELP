@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [MultiplayerCore for Beat Saber 1.37](https://github.com/Goobwabber/MultiplayerCore/releases/tag/v1.5.0) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
+1. 🗣 Commented on [#582](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/582#issuecomment-2324412806) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
