@@ -53,7 +53,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.1](https://github.com/Goobwabber/MultiplayerCore/releases/tag/v1.5.1) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
+1. 🚀 Published release [Test fix v1.6.4](https://github.com/michael-r-elp/init-beatsaber/releases/tag/v1.6.4) in [michael-r-elp/init-beatsaber](https://github.com/michael-r-elp/init-beatsaber)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
