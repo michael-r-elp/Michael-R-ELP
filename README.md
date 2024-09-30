@@ -60,8 +60,8 @@
 <p align="center">
 <a href="#-random-joke-and-meme-for-you">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-<img width=500 src='https://random-memer.elp.quest/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-  </a></p>
+<!--<img width=500 src='https://random-memer.elp.quest/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  </a></p>-->
   
 <!--
 Not Setup, needs account at https://wakatime.com
