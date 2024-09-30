@@ -29,11 +29,28 @@
 
 ### These repos
 
-<a href="https://github.com/Goobwabber/MultiQuestensions">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Goobwabber&repo=MultiQuestensions&theme=nord&show_owner=true" alt="MultiQuestensions">
+<a href="https://github.com/EnderdracheLP/MultplayerCore.Quest">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=MultiplayerCore.Quest&theme=nord&show_owner=true" alt="MultiplayerCore.Quest">
 </a>
 
-[![QuestSounds](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=BeatSaberServerBrowserQuest&theme=nord)](/../../../BeatSaberServerBrowserQuest)
+<a href="https://github.com/BeatTogether/BeatTogether.Quest">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=BeatTogether&repo=BeatTogether.Quest&theme=nord&show_owner=true" alt="BeatTogether.Quest">
+</a>
+
+<a href="https://github.com/BeatTogether/BeatTogether">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=BeatTogether&repo=BeatTogether&theme=nord&show_owner=true" alt="BeatTogether">
+</a>
+
+<a href="https://github.com/Goobwabber/MultiplayerCore">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Goobwabber&repo=MultiplayerCore&theme=nord&show_owner=true" alt="MultiplayerCore">
+</a>
+
+
+<!--[![MultiplayerCore.Quest](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=MultiplayerCore.Quest&theme=nord&show_owner=true)](https://github.com/EnderdracheLP/MultiplayerCore.Quest)-->
+[![QuestSounds](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=QuestSounds&theme=nord&show_owner=true)](https://github.com/EnderdracheLP/QuestSounds)
+[![ClockMod](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=ClockMod&theme=nord&show_owner=true)](https://github.com/EnderdracheLP/ClockMod)
+
+<!--[![QuestSounds](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=BeatSaberServerBrowserQuest&theme=nord)](/../../../BeatSaberServerBrowserQuest)-->
 <!--
 [![SongDownloader](https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true&theme=nord)](https://github.com/darknight1050/SongDownloader)
 
