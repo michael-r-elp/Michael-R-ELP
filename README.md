@@ -19,10 +19,10 @@
 <ul>
 <li>🔭 I’m currently working on a few Beat Saber Quest Mods.</li>
 <li>🧐 Learning about <strong>C++, Beat Saber Modding on the Oculus Quest and Web Development</strong>.</li>
-<li>👨‍💻 My projects are available on <a href="https://github.com/EnderdracheLP?tab=repositories">Github</a>.</li>
+<li>👨‍💻 My projects are available on <a href="https://github.com/michael-r-elp?tab=repositories">Github</a>.</li>
 </ul>
   <br><br><br><br><br><a href="#%EF%B8%8F-about-me">
-  <img align="right" width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-R-ELP&langs_count=5&layout=compact&theme=nord" alt="My Coding Language Stats"></a>
+  <img align="right" width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-r-elp&langs_count=5&layout=compact&theme=nord" alt="My Coding Language Stats"></a>
 <br><br><br><br><br><br><br>
 <h2>📋 Recently Worked on</h2>
 
