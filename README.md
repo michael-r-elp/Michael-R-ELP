@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/EnderdracheLP/ClockMod/pull/14) in [EnderdracheLP/ClockMod](https://github.com/EnderdracheLP/ClockMod)
+1. 🔒 Closed issue [#600](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/600) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
