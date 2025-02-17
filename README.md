@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#523](https://github.com/tobychui/zoraxy/issues/523#issuecomment-2659440385) in [tobychui/zoraxy](https://github.com/tobychui/zoraxy)
+1. 🗣 Commented on [#606](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/606#issuecomment-2662491989) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
