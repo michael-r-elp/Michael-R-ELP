@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/raineaeternal/Lapiz/pull/77) in [raineaeternal/Lapiz](https://github.com/raineaeternal/Lapiz)
+1. 🗣 Commented on [#34](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/34#issuecomment-2708915234) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
