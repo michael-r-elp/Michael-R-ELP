@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#610](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/610#issuecomment-2725571214) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 🗣 Commented on [#13656](https://github.com/sveltejs/kit/issues/13656#issuecomment-2765897507) in [sveltejs/kit](https://github.com/sveltejs/kit)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
