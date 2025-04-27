@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/beastsaber/bsaber/pull/222#issuecomment-2800147861) in [beastsaber/bsaber](https://github.com/beastsaber/bsaber)
+1. 🚀 Published release [BeatTogether Quest for Beat Saber 1.40.4_5283](https://github.com/BeatTogether/BeatTogether.Quest/releases/tag/v2.2.1) in [BeatTogether/BeatTogether.Quest](https://github.com/BeatTogether/BeatTogether.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
