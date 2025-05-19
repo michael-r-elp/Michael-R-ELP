@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/beastsaber/bsaber/pull/222#issuecomment-2873770190) in [beastsaber/bsaber](https://github.com/beastsaber/bsaber)
+1. 🗣 Commented on [#615](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/615#issuecomment-2889146519) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
