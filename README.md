@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/Meivyn/BeatSaberBugs/issues/27#issuecomment-2948456514) in [Meivyn/BeatSaberBugs](https://github.com/Meivyn/BeatSaberBugs)
+1. 🚀 Published release [MultiplayerCore v1.6.2 for Beat Saber 1.40](https://github.com/Goobwabber/MultiplayerCore/releases/tag/v1.6.2) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
