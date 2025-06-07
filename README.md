@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/BeatTogether/BeatTogether/issues/50#issuecomment-2945779552) in [BeatTogether/BeatTogether](https://github.com/BeatTogether/BeatTogether)
+1. 🗣 Commented on [#27](https://github.com/Meivyn/BeatSaberBugs/issues/27#issuecomment-2948456514) in [Meivyn/BeatSaberBugs](https://github.com/Meivyn/BeatSaberBugs)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
