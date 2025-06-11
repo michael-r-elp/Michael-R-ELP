@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [MultiplayerCore v1.6.2 for Beat Saber 1.40](https://github.com/Goobwabber/MultiplayerCore/releases/tag/v1.6.2) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
+1. 🎉 Merged PR [#36](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/36) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
