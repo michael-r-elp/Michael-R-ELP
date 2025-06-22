@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/BeatTogether/BeatTogether/issues/49#issuecomment-2992312047) in [BeatTogether/BeatTogether](https://github.com/BeatTogether/BeatTogether)
+1. 🎉 Merged PR [#37](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/37) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
