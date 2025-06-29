@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#621](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/621) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 🚀 Published release [BeatTogether Quest v2.2.2 for Beat Saber 1.40.6_6407](https://github.com/BeatTogether/BeatTogether.Quest/releases/tag/v2.2.2) in [BeatTogether/BeatTogether.Quest](https://github.com/BeatTogether/BeatTogether.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
