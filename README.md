@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [BeatTogether Quest v2.2.2 for Beat Saber 1.40.6_6407](https://github.com/BeatTogether/BeatTogether.Quest/releases/tag/v2.2.2) in [BeatTogether/BeatTogether.Quest](https://github.com/BeatTogether/BeatTogether.Quest)
+1. 🗣 Commented on [#49](https://github.com/BeatTogether/BeatTogether/issues/49#issuecomment-3039822016) in [BeatTogether/BeatTogether](https://github.com/BeatTogether/BeatTogether)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
