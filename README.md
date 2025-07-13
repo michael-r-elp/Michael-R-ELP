@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/EnderdracheLP/ClockMod/issues/20#issuecomment-3058602759) in [EnderdracheLP/ClockMod](https://github.com/EnderdracheLP/ClockMod)
+1. 🗣 Commented on [#7](https://github.com/EnderdracheLP/QuestSounds/issues/7#issuecomment-3067022230) in [EnderdracheLP/QuestSounds](https://github.com/EnderdracheLP/QuestSounds)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
