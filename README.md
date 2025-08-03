@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/EnderdracheLP/QuestSounds/issues/7#issuecomment-3067022230) in [EnderdracheLP/QuestSounds](https://github.com/EnderdracheLP/QuestSounds)
+1. 🎉 Merged PR [#38](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/38) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
