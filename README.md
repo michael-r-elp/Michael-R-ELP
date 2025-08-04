@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/38) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
+1. 🎉 Merged PR [#23](https://github.com/EnderdracheLP/ClockMod/pull/23) in [EnderdracheLP/ClockMod](https://github.com/EnderdracheLP/ClockMod)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
