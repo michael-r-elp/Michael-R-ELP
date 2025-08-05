@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/EnderdracheLP/ClockMod/pull/23) in [EnderdracheLP/ClockMod](https://github.com/EnderdracheLP/ClockMod)
+1. 💪 Opened PR [#218](https://github.com/humanspeak/svelte-virtual-list/pull/218) in [humanspeak/svelte-virtual-list](https://github.com/humanspeak/svelte-virtual-list)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
