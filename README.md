@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [BeatTogether Quest v2.2.4 for Beat Saber 1.40.8_7379](https://github.com/BeatTogether/BeatTogether.Quest/releases/tag/v2.2.4) in [BeatTogether/BeatTogether.Quest](https://github.com/BeatTogether/BeatTogether.Quest)
+1. 🎉 Merged PR [#40](https://github.com/EnderdracheLP/MultiplayerCore.Quest/pull/40) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
