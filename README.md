@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/EnderdracheLP/ClockMod/pull/24) in [EnderdracheLP/ClockMod](https://github.com/EnderdracheLP/ClockMod)
+1. 🗣 Commented on [#5](https://github.com/BeatTogether/BeatTogether.UnifiedServer/issues/5#issuecomment-3259572086) in [BeatTogether/BeatTogether.UnifiedServer](https://github.com/BeatTogether/BeatTogether.UnifiedServer)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
