@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/BeatTogether/BeatTogether.UnifiedServer/issues/5#issuecomment-3259572086) in [BeatTogether/BeatTogether.UnifiedServer](https://github.com/BeatTogether/BeatTogether.UnifiedServer)
+1. 🚀 Published release [MultiplayerCore 1.6.5 for Beat Saber 1.40.8_7379](https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/tag/1.6.5) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
