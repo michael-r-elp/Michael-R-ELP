@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](undefined) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
+1. 🗣 Commented on [#8](https://github.com/EnderdracheLP/QuestSounds/issues/8#issuecomment-3681163979) in [EnderdracheLP/QuestSounds](https://github.com/EnderdracheLP/QuestSounds)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
