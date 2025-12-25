@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/EnderdracheLP/QuestSounds/issues/8#issuecomment-3681163979) in [EnderdracheLP/QuestSounds](https://github.com/EnderdracheLP/QuestSounds)
+1. 🚀 Published release [MultiplayerExtensions v1.1.0 for Beat Saber 1.37.5-1.40.8](https://github.com/EnderdracheLP/MultiplayerExtensions/releases/tag/v1.1.0) in [EnderdracheLP/MultiplayerExtensions](https://github.com/EnderdracheLP/MultiplayerExtensions)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
