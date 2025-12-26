@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [MultiplayerExtensions v1.1.0 for Beat Saber 1.37.5-1.40.8](https://github.com/EnderdracheLP/MultiplayerExtensions/releases/tag/v1.1.0) in [EnderdracheLP/MultiplayerExtensions](https://github.com/EnderdracheLP/MultiplayerExtensions)
+1. 💪 Opened PR [#188](undefined) in [Aeroluna/Heck](https://github.com/Aeroluna/Heck)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
