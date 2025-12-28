@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#859](undefined) in [QuestPackageManager/bsqmods](https://github.com/QuestPackageManager/bsqmods)
+1. ❌ Merged PR [#859](undefined) in [QuestPackageManager/bsqmods](https://github.com/QuestPackageManager/bsqmods)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
