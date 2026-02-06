@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#648](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/648) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 🎉 Merged PR [#188](https://github.com/Aeroluna/Heck/pull/188) in [Aeroluna/Heck](https://github.com/Aeroluna/Heck)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
