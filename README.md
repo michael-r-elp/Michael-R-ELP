@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5585](https://github.com/mampfes/hacs_waste_collection_schedule/issues/5585#issuecomment-4017716076) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+1. 🚀 Published release [Update 1.1.0 (Adds PPD and PPM support)](https://github.com/BeatTogether/BeatTogether.UnifiedServer/releases/tag/1.1.0) in [BeatTogether/BeatTogether.UnifiedServer](https://github.com/BeatTogether/BeatTogether.UnifiedServer)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
