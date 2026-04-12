@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#59](https://github.com/Goobwabber/MultiplayerCore/pull/59) in [Goobwabber/MultiplayerCore](https://github.com/Goobwabber/MultiplayerCore)
+1. ℹ️ Assigned PR [#654](https://github.com/EnderdracheLP/Beat-Saber-Uptime/pull/654) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
