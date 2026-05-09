@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#613](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/613#issuecomment-4255024600) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 🗣 Commented on [#9](https://github.com/EnderdracheLP/QuestSounds/issues/9#issuecomment-4412155146) in [EnderdracheLP/QuestSounds](https://github.com/EnderdracheLP/QuestSounds)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
