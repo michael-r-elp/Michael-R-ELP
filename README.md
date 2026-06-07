@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [MultiplayerCore 1.6.7 for Beat Saber 1.40.8_7379](https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/tag/1.6.7) in [EnderdracheLP/MultiplayerCore.Quest](https://github.com/EnderdracheLP/MultiplayerCore.Quest)
+1. 🔒 Closed issue [#656](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/656) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
