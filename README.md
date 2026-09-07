@@ -70,7 +70,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/dreadedlama/dnd-sync/issues/1#issuecomment-5565696674) in [dreadedlama/dnd-sync](https://github.com/dreadedlama/dnd-sync)
+1. 🗣 Commented on [#1](https://github.com/dreadedlama/dnd-sync/issues/1#issuecomment-5574455300) in [dreadedlama/dnd-sync](https://github.com/dreadedlama/dnd-sync)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke and Meme for you</h2>
