@@ -10,7 +10,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/dreadedlama/dnd-sync/issues/16#issuecomment-5742422693) in [dreadedlama/dnd-sync](https://github.com/dreadedlama/dnd-sync)
+1. 🗣 Commented on [#664](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/664#issuecomment-5817631027) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke for you</h2>
