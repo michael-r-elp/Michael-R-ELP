@@ -10,7 +10,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#670](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/670) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
+1. 🗣 Commented on [#670](https://github.com/EnderdracheLP/Beat-Saber-Uptime/issues/670#issuecomment-6398182143) in [EnderdracheLP/Beat-Saber-Uptime](https://github.com/EnderdracheLP/Beat-Saber-Uptime)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke for you</h2>
