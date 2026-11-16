@@ -10,7 +10,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/EnderdracheLP/ClockMod/pull/25#issuecomment-6882191672) in [EnderdracheLP/ClockMod](https://github.com/EnderdracheLP/ClockMod)
+1. 💪 Opened PR [#1268](https://github.com/QuestPackageManager/bsqmods/pull/1268) in [QuestPackageManager/bsqmods](https://github.com/QuestPackageManager/bsqmods)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke for you</h2>
