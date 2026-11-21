@@ -10,7 +10,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1268](https://github.com/QuestPackageManager/bsqmods/pull/1268) in [QuestPackageManager/bsqmods](https://github.com/QuestPackageManager/bsqmods)
+1. 🎉 Merged PR [#1268](https://github.com/QuestPackageManager/bsqmods/pull/1268) in [QuestPackageManager/bsqmods](https://github.com/QuestPackageManager/bsqmods)
 <!--END_SECTION:activity-->
 
 <h2>🤣 Random Joke for you</h2>
